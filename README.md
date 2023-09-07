@@ -1,2 +1,2 @@
 # sorting
-bubble sorting , insertion sort , selection sort 
+bubble sorting , insertion sort , selection sort , merge sorting
